@@ -300,7 +300,7 @@ $ ./iiitb_rv32i
 <details>
  
 
-Code: 
+Code: ![code folder](https://github.com/beast-brain-11/samsung-riscv/tree/main/Task%206)
 
 Video:![video](https://drive.google.com/file/d/1AWPyrjjUoWfTWwa1wpuxunXZ-bAS9S8y/view?usp=drivesdk)
  
